@@ -1,0 +1,8 @@
+ckpt/
+data/
+wandb/
+__pycache__/
+*.pyc
+*.log
+*.bin
+*.jsonl
